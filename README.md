@@ -10,9 +10,9 @@ Import the required packages.
 ### Step 2:-
 Read the csv file and convert them into Dataframe.
 ### Step 3:-
-Use drop to remove a column "Gender" from the Dataframe.
+Use drop function to remove a column "Gender" from the Dataframe.
 ### Step 4:-
-Apply Graphical Method "Box plot",which exhibit the Outlier.
+Apply Graphical Method "Box plot",which exhibits the Outliers.
 ### Step 5:-
 Apply Z-score function defined in scipy library to detect the outliers.
 ### Step 6:-
@@ -44,16 +44,16 @@ df2_new
 # OUTPUT:
 ## Initial DataFrame:
 ![Output](./D1.png)
-## After removing "Gender" column:
+## After removing Column-"Gender":
 ![Output](./D2.png)
-## Graph to exhibit Outlier:
+## Graph to exhibit Outliers:
 ![Output](./D3.png)
 ## Using Z-score function to detect the outliers.:
 ![Output](./D4.png)
 ![Output](./D5.png)
-## Graph After removing Outlier from column "Weight":
+## Graph After removing Outliers from column-"Weight":
 ![Output](./D6.png)
-## Graph After removing Outlier from column "Height":
+## Graph After removing Outliers from column-"Height":
 ![Output](./D7.png)
 ## Final Dataset:
 ![Output](./D8.png)
